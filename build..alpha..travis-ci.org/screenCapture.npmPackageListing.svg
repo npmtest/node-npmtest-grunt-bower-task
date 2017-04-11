@@ -1,62 +1,62 @@
 <svg height="942" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="942" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 21:47:53 +0000    36608 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 21:47:53 +0000     1298 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 21:47:53 +0000     1191 bytes  HISTORY.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 21:47:53 +0000     1081 bytes  LICENSE-MIT</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 21:47:53 +0000     8846 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 21:47:53 +0000     3096 bytes  package.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 21:47:53 +0000     1151 bytes  specs/layouts_manager_spec.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 21:47:53 +0000     1446 bytes  specs/package_matcher_spec.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 21:47:53 +0000     4775 bytes  tasks/bower_task.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-11 21:47:53 +0000     1506 bytes  tasks/lib/asset_copier.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-11 21:47:53 +0000     2834 bytes  tasks/lib/bower_assets.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-11 21:47:53 +0000     1092 bytes  tasks/lib/layouts_manager.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-11 21:47:53 +0000      756 bytes  tasks/lib/package_matcher.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-11 21:47:53 +0000     6252 bytes  test/bower_assets_test.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-11 21:47:53 +0000      118 bytes  test/fixtures/current_state_of_bower/component.j\</tspan>
+<tspan x="10" y="26">  0.  2017-04-11 21:50:26 +0000    36608 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-11 21:50:26 +0000     1298 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-11 21:50:26 +0000     1191 bytes  HISTORY.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-11 21:50:26 +0000     1081 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="90">  4.  2017-04-11 21:50:26 +0000     8846 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-11 21:50:26 +0000     3096 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-11 21:50:26 +0000     1151 bytes  specs/layouts_manager_spec.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-11 21:50:26 +0000     1446 bytes  specs/package_matcher_spec.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-11 21:50:26 +0000     4775 bytes  tasks/bower_task.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-11 21:50:26 +0000     1506 bytes  tasks/lib/asset_copier.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-11 21:50:26 +0000     2834 bytes  tasks/lib/bower_assets.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-11 21:50:26 +0000     1092 bytes  tasks/lib/layouts_manager.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-11 21:50:26 +0000      756 bytes  tasks/lib/package_matcher.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-11 21:50:26 +0000     6252 bytes  test/bower_assets_test.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-11 21:50:26 +0000      118 bytes  test/fixtures/current_state_of_bower/component.j\</tspan>
 <tspan x="10" y="266">son</tspan>
-<tspan x="10" y="282"> 15.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/current_state_of_bower/components/\</tspan>
+<tspan x="10" y="282"> 15.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/current_state_of_bower/components/\</tspan>
 <tspan x="10" y="298">jquery/jquery.js</tspan>
-<tspan x="10" y="314"> 16.  2017-04-11 21:47:53 +0000      263 bytes  test/fixtures/extended_component_json/component.\</tspan>
+<tspan x="10" y="314"> 16.  2017-04-11 21:50:26 +0000      263 bytes  test/fixtures/extended_component_json/component.\</tspan>
 <tspan x="10" y="330">json</tspan>
-<tspan x="10" y="346"> 17.  2017-04-11 21:47:53 +0000        5 bytes  test/fixtures/extended_component_json/components\</tspan>
+<tspan x="10" y="346"> 17.  2017-04-11 21:50:26 +0000        5 bytes  test/fixtures/extended_component_json/components\</tspan>
 <tspan x="10" y="362">/bootstrap-sass/js/bootstrap-affix.js</tspan>
-<tspan x="10" y="378"> 18.  2017-04-11 21:47:53 +0000        5 bytes  test/fixtures/extended_component_json/components\</tspan>
+<tspan x="10" y="378"> 18.  2017-04-11 21:50:26 +0000        5 bytes  test/fixtures/extended_component_json/components\</tspan>
 <tspan x="10" y="394">/bootstrap-sass/js/bootstrap-modal.js</tspan>
-<tspan x="10" y="410"> 19.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/extended_component_json/components\</tspan>
+<tspan x="10" y="410"> 19.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/extended_component_json/components\</tspan>
 <tspan x="10" y="426">/bootstrap-sass/lib/_mixins.scss</tspan>
-<tspan x="10" y="442"> 20.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/extended_component_json/components\</tspan>
+<tspan x="10" y="442"> 20.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/extended_component_json/components\</tspan>
 <tspan x="10" y="458">/jquery/jquery.js</tspan>
-<tspan x="10" y="474"> 21.  2017-04-11 21:47:53 +0000        5 bytes  test/fixtures/honor_bowerrc/bo_co/bootstrap/js/b\</tspan>
+<tspan x="10" y="474"> 21.  2017-04-11 21:50:26 +0000        5 bytes  test/fixtures/honor_bowerrc/bo_co/bootstrap/js/b\</tspan>
 <tspan x="10" y="490">ootstrap-affix.js</tspan>
-<tspan x="10" y="506"> 22.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/honor_bowerrc/bo_co/bootstrap/lib/\</tspan>
+<tspan x="10" y="506"> 22.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/honor_bowerrc/bo_co/bootstrap/lib/\</tspan>
 <tspan x="10" y="522">_mixins.scss</tspan>
-<tspan x="10" y="538"> 23.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/honor_bowerrc/bo_co/jquery/jquery.\</tspan>
+<tspan x="10" y="538"> 23.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/honor_bowerrc/bo_co/jquery/jquery.\</tspan>
 <tspan x="10" y="554">js</tspan>
-<tspan x="10" y="570"> 24.  2017-04-11 21:47:53 +0000      254 bytes  test/fixtures/honor_bowerrc/component.json</tspan>
-<tspan x="10" y="586"> 25.  2017-04-11 21:47:53 +0000        5 bytes  test/fixtures/regexOverridesOfBower/bo_co/bootst\</tspan>
+<tspan x="10" y="570"> 24.  2017-04-11 21:50:26 +0000      254 bytes  test/fixtures/honor_bowerrc/component.json</tspan>
+<tspan x="10" y="586"> 25.  2017-04-11 21:50:26 +0000        5 bytes  test/fixtures/regexOverridesOfBower/bo_co/bootst\</tspan>
 <tspan x="10" y="602">rap/js/bootstrap-affix.js</tspan>
-<tspan x="10" y="618"> 26.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/bootst\</tspan>
+<tspan x="10" y="618"> 26.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/bootst\</tspan>
 <tspan x="10" y="634">rap/lib/_mixins.scss</tspan>
-<tspan x="10" y="650"> 27.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/jquery\</tspan>
+<tspan x="10" y="650"> 27.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/jquery\</tspan>
 <tspan x="10" y="666">/jquery-migrate.js</tspan>
-<tspan x="10" y="682"> 28.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/jquery\</tspan>
+<tspan x="10" y="682"> 28.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/jquery\</tspan>
 <tspan x="10" y="698">/jquery-migrate.min.js</tspan>
-<tspan x="10" y="714"> 29.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/jquery\</tspan>
+<tspan x="10" y="714"> 29.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/jquery\</tspan>
 <tspan x="10" y="730">/jquery.js</tspan>
-<tspan x="10" y="746"> 30.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/jquery\</tspan>
+<tspan x="10" y="746"> 30.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/regexOverridesOfBower/bo_co/jquery\</tspan>
 <tspan x="10" y="762">/jquery.min.js</tspan>
-<tspan x="10" y="778"> 31.  2017-04-11 21:47:53 +0000        5 bytes  test/fixtures/regexOverridesOfBower/bo_co/unders\</tspan>
+<tspan x="10" y="778"> 31.  2017-04-11 21:50:26 +0000        5 bytes  test/fixtures/regexOverridesOfBower/bo_co/unders\</tspan>
 <tspan x="10" y="794">core/underscore.css</tspan>
-<tspan x="10" y="810"> 32.  2017-04-11 21:47:53 +0000        4 bytes  test/fixtures/regexOverridesOfBower/bo_co/unders\</tspan>
+<tspan x="10" y="810"> 32.  2017-04-11 21:50:26 +0000        4 bytes  test/fixtures/regexOverridesOfBower/bo_co/unders\</tspan>
 <tspan x="10" y="826">core/underscore.js</tspan>
-<tspan x="10" y="842"> 33.  2017-04-11 21:47:53 +0000      484 bytes  test/fixtures/regexOverridesOfBower/component.js\</tspan>
+<tspan x="10" y="842"> 33.  2017-04-11 21:50:26 +0000      484 bytes  test/fixtures/regexOverridesOfBower/component.js\</tspan>
 <tspan x="10" y="858">on</tspan>
-<tspan x="10" y="874"> 34.  2017-04-11 21:47:53 +0000      136 bytes  test/fixtures/support_bower_components_folder/bo\</tspan>
+<tspan x="10" y="874"> 34.  2017-04-11 21:50:26 +0000      136 bytes  test/fixtures/support_bower_components_folder/bo\</tspan>
 <tspan x="10" y="890">wer.json</tspan>
-<tspan x="10" y="906"> 35.  2017-04-11 21:47:53 +0000        0 bytes  test/fixtures/support_bower_components_folder/bo\</tspan>
+<tspan x="10" y="906"> 35.  2017-04-11 21:50:26 +0000        0 bytes  test/fixtures/support_bower_components_folder/bo\</tspan>
 <tspan x="10" y="922">wer_components/jquery/jquery.js</tspan>
 </text>
 </svg>
