@@ -1,7 +1,7 @@
 # test coverage for  [grunt-bower-task (v0.5.0)](https://github.com/yatskevich/grunt-bower-task)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-bower-task.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-bower-task) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-bower-task.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-bower-task)
 #### Install Bower packages.
 
-[![NPM](https://nodei.co/npm/grunt-bower-task.png?downloads=true)](https://www.npmjs.com/package/grunt-bower-task)
+[![NPM](https://nodei.co/npm/grunt-bower-task.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-bower-task)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-grunt-bower-task/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-bower-task/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-bower-task/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-grunt-bower-task/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-grunt-bower-task%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-bower-task/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-grunt-bower-task%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-bower-task/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-grunt-bower-task/build/test-report.html](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-grunt-bower-task/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-bower-task/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-bower-task/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-bower-task/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-grunt-bower-task/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Ivan Yatskevich",
-        "email": "ivan@yatskevich.com"
+        "name": "Ivan Yatskevich"
     },
     "bugs": {
         "url": "https://github.com/yatskevich/grunt-bower-task/issues"
@@ -80,17 +85,14 @@
     "main": "Gruntfile.js",
     "maintainers": [
         {
-            "name": "randomlyknighted",
-            "email": "thughes@randomlyknighted.com"
+            "name": "randomlyknighted"
         },
         {
-            "name": "yatskevich",
-            "email": "ivan@yatskevich.com"
+            "name": "yatskevich"
         }
     ],
     "name": "grunt-bower-task",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/yatskevich/grunt-bower-task.git"
